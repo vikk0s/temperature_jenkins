@@ -1,4 +1,4 @@
-package temperatureconverter;
+package org.example;
 
 public class TemperatureConverter {
     public double fahrenheitToCelsius(double fahrenheit) {

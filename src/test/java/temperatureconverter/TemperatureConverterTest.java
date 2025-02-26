@@ -1,5 +1,7 @@
 package temperatureconverter;
 
+import org.example.TemperatureConverter;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class TemperatureConverterTest {
