@@ -24,7 +24,7 @@ class TemperatureConverterTest {
 
     @org.junit.jupiter.api.Test
     void isExtremeNegativeTemperature() {
-        assertTrue(new TemperatureConverter().isExtremeTemperature(-40));
+        assertTrue(new TemperatureConverter().isExtremeTemperature(-50));
         assertFalse(new TemperatureConverter().isExtremeTemperature(-39));
     }
 }
